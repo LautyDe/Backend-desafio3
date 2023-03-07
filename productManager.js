@@ -61,12 +61,9 @@ export default class ProductManager {
     try {
       /* chequeo si existe el documento */
       if (this.#exists(this.archivo)) {
-        console.log("Leyendo archivo...");
         const productsArray = await this.#readFile(this.archivo);
         /* una vez que verifico que existe, veo si esta vacio o si tiene contenido */
         if (productsArray.length !== 0) {
-          console.log("Archivo con contenido");
-          console.log(productsArray);
           return productsArray;
         } else {
           throw new Error(`El archivo ${this.archivo} esta vacio`);
