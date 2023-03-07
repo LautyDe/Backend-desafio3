@@ -16,5 +16,17 @@
     "title": "Auriculares PS5",
     "price": 42000,
     "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/348062/PS5_WHS_Pshot_A.jpg?v=637363806123470000"
+  },
+  {
+    "id": 4,
+    "title": "Parlantes",
+    "price": 4800,
+    "thumbnail": "https://tiendatecnet.com/wp-content/uploads/2022/05/parlantes-logitech-s150.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Macbook Air 13",
+    "price": 600000,
+    "thumbnail": "https://www.notebookcheck.info/uploads/tx_nbc2/air13teaser.jpg"
   }
 ]
