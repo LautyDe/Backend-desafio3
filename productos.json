@@ -28,5 +28,35 @@
     "title": "Macbook Air 13",
     "price": 600000,
     "thumbnail": "https://www.notebookcheck.info/uploads/tx_nbc2/air13teaser.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Teclado",
+    "price": 20000,
+    "thumbnail": "https://app.contabilium.com/files/explorer/16277/Productos-Servicios/concepto-5848394.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Mouse ",
+    "price": 6000,
+    "thumbnail": "https://s3-sa-east-1.amazonaws.com/saasargentina/js5YAR90pHrt0Vvo5kCB/imagen"
+  },
+  {
+    "id": 8,
+    "title": "PS5",
+    "price": 300000,
+    "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ps5.png"
+  },
+  {
+    "id": 9,
+    "title": "Motorola Edge 30 Pro",
+    "price": 250000,
+    "thumbnail": "https://aloisevirtual.com.ar/wp-content/uploads/2022/06/782813-3.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Iphone 14 Pro Max",
+    "price": 980000,
+    "thumbnail": "https://bittstores.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-deep-purple-.jpeg"
   }
 ]

@@ -60,5 +60,6 @@ app.get("/products/:pid", async (req, res) => {
 
 const server = app.listen(PORT, () => {
   console.log(`Servidor escuchando en el puerto ${server.address().port}`);
+  console.log(`http://localhost:${PORT}`);
 });
 server.on("error", error => console.log(`Error en servidor: ${error.message}`));
